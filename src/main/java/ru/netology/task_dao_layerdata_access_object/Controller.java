@@ -1,3 +1,5 @@
+package ru.netology.task_dao_layerdata_access_object;
+
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

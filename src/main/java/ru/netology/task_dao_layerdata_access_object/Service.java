@@ -1,3 +1,5 @@
+package ru.netology.task_dao_layerdata_access_object;
+
 import lombok.AllArgsConstructor;
 
 import java.util.List;

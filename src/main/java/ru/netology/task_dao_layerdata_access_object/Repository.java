@@ -1,3 +1,5 @@
+package ru.netology.task_dao_layerdata_access_object;
+
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 
